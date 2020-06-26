@@ -1,0 +1,458 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Vizsla :: POS :: Ayuda con Errores</title>
+<style type="text/css">
+<!--
+p{
+  color: #FF0000;
+  font:Arial, Helvetica, sans-serif;
+  font-size:x-small;
+}
+.grl {
+  color: #FFFFF;
+  font:Arial, Helvetica, sans-serif;
+  font-size:small;
+  border: #006699 solid 1px;
+  border-collapse:collapse;
+}
+.titulo1
+{
+  font-size:medium;
+  color:#FF0000;
+  font-weight: bold;
+  padding:10px;
+  border: #006699 solid 1px;
+}
+.stilo_Error
+{
+  text-align:center;
+  border: #006699 solid 1px;
+}
+.stilo_descipcion
+{
+  padding:10px;
+  border: #006699 solid 1px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="grl">
+  <tr>
+    <td width="15%"><div align="center" class="titulo1">Numero de Error</div></td>
+    <td width="85%"><div align="center" class="titulo1">Descripcion / Motivo</div></td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-MDI-001    </td>
+    <td class="stilo_descipcion">Error de sistema en algun sector no definido del programa.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-MDI-002</td>
+    <td class="stilo_descipcion">Error de sistema en el formulario al principal  tratar de logearse como usuario, pudiendo ser la causa algun problema de conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-MDI-003</td>
+    <td class="stilo_descipcion">Error al intentar hacer backup de la informacion del sistema</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-001</td>
+    <td class="stilo_descipcion">Error: &quot;No se puede leer la imagen desde el disco.&quot; Error de sistema en la carga de la imagen del formulario de agregar articulos. </td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-002</td>
+    <td class="stilo_descipcion">Error: &quot;Se debe ingresar primero el codigo de barras del producto.&quot; Este error se produce porque es sistema se diseño para que cada articulo que se ingrese tenga un codigo especifico que lo distinga, y por ello al tratar de cargar una imagen y no tener el codigo de barra o alternativamente el codigo interno en el lugar del codigo de barra aparece este error ya que el sistama no permite el ingreso de una imagen si algun distintivo como codigo.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-003</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de dimensionar la imagen que se cargo en el formulario de agregar articulos</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-004</td>
+    <td class="stilo_descipcion">Error: &quot;El formato de la celda es incorrecto&quot; Error del usuario al tratar de ingresar otra tipo de caracter que no sea &quot;,&quot;(coma), &quot;.&quot;(punto) y algun numero.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-005</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de prosesar el formato de las celdas.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-006</td>
+    <td class="stilo_descipcion">Error: &quot;Se aceptan solo numeros, punto o coma en este casillero.&quot; Error de usuario al tratar de ingresar caracteres no validos para esos casilleros.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-007</td>
+    <td class="stilo_descipcion">Error de sistema al intentar abrir el formulario de clientes o proveedores.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-008</td>
+    <td class="stilo_descipcion">Error de sistema al precionar el boton de convertir &quot;Precio de venta&quot; en el formulario de Agregar Nuevo Articulo</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-009</td>
+    <td class="stilo_descipcion">Error de sistema al precionar el boton de convertir &quot;Utilidad&quot; en el formulario de Agregar Nuevo Articulo</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-010</td>
+    <td class="stilo_descipcion">Error de sistema al precionar el boton de convertir &quot;Precio de venta&quot; en el formulario de Editar Articulo</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-011</td>
+    <td class="stilo_descipcion">Error de sistema al precionar el boton de convertir &quot;Utilidad&quot; en el formulario de Editar Articulo</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-012</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de crear el directorio &quot;/articulos/&quot; dentro del directorio principal del programa.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-013</td>
+    <td class="stilo_descipcion">ATENCION: &quot;Debe conpletar todos los casilleros marcados con (*)&quot; Este error se produce cuando el usuario no ha completado todos los casilleros con asterisco (*)</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-014</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de guardar los datos que se ingresaron en el formulario &quot;Nuevo Articulo&quot;, puedo haber sido producido por un error en la conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-015</td>
+    <td class="stilo_descipcion">Error de sistema provocado posiblemente por un error en la conexion con la base de datos al tratar de buscar el articulo.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-016</td>
+    <td class="stilo_descipcion">Error de sistema provocado posiblemente por un error en la conexion con la base de datos al tratar de eliminar el articulo de la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-017</td>
+    <td class="stilo_descipcion">Error de sistema provocado por el boton de &quot;Editar&quot; en el buscador de articulos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-018</td>
+    <td class="stilo_descipcion">Error de sistema provocado por el boton de &quot;Nuevo&quot; en el buscador de articulos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-019</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de limpiar el formulario &quot;Agregar&quot;.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-020</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de limpiar el formulario &quot;Editar&quot;.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-021</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de llenar los campos del formulario &quot;Editar&quot;, el error es posible que se haya efectuado por causa de una mala conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-022</td>
+    <td class="stilo_descipcion">Error: &quot;Debe conpletar todos los casilleros marcados con (*)&quot; es un del usuario por no completar todos los casilleros que estan marcados con asterisco (*)</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-023</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de actualizar los datos en el formulario &quot;Editar&quot;, el errror es posible que se haya efectuado por causa de una mala conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-024</td>
+    <td class="stilo_descipcion">Error: &quot;No se puede leer la imagen desde el disco.&quot; Error de sistema al intentar cargar la imagen desde el disco duro.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-025</td>
+    <td class="stilo_descipcion">Error: &quot;Se debe ingresar primero el codigo de barras del producto.&quot;, es un error del usuario en donde no se ha completado todos los campos con asterisco(*).</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-026</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de comunicarse con la base de datos para encontrar el proveedor ingresado en el formulario de &quot;Argregar&quot;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-027</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de comunicarse con la base de datos para encontrar el proveedor ingresado en el formulario de &quot;Editar&quot;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-028</td>
+    <td class="stilo_descipcion">Error al intentar leer el archivo de excel para importar a la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-029</td>
+    <td class="stilo_descipcion">Error calculando el porcentaje de la barra de progreso en el formulario de importacion del XSL</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-030</td>
+    <td class="stilo_descipcion">Error en el metodo de importacion de datos. Boton importar del form importar XLS (AGREGAR)</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-AR1-031</td>
+    <td class="stilo_descipcion">Error en el metodo de importacion de datos. Boton importar del form importar XLS (REEMPLAZAR)</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-000</td>
+    <td class="stilo_descipcion">Error de sistema al buscar el ultimo id de clientes y proveedores.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-001</td>
+    <td class="stilo_descipcion">Error de sistema que pudo haber sido producido por una mala conexion con la base de datos en el formulario de Buscar Cliente o Proveedor.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-002</td>
+    <td class="stilo_descipcion">Error de sistema al intentar guardar los datos en la base de datos, este error puede deberse un problema de conexcion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-003</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de borrar todos los campos del formulario &quot;Argegar&quot;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-004</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de borrar todos los campos del formulario &quot;Editar&quot;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-005</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de buscar en la base de datos el cliente o proveedor ingresado. Este error pudo haber sido provocado por una mala conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-006</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de guardar los datos del formulario &quot;Editar&quot; en la base de datos. Este errror pudo haber sido provocado por una mala conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-007</td>
+    <td class="stilo_descipcion">Error de sistema al presionar el boton de &quot;Editar&quot; en el formulario de Buscar.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-008</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de borrar el Cliente o Proveedor desde el formulario &quot;Buscar&quot;. Este error pudo haber sido por falla en la conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-CL1-009</td>
+    <td class="stilo_descipcion">Error de sistema al presionar el boton de &quot;Agregar Nuevo&quot; en el formulario de Buscar.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-001</td>
+    <td class="stilo_descipcion">Error de sistema al intentar limpiar el formulario.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-002</td>
+    <td class="stilo_descipcion">Error de sistema al intentar abrir el pop up de vendedores disponibles.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-003</td>
+    <td class="stilo_descipcion">Error de sistema al intentar abrir el formulario de Clientes.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-004</td>
+    <td class="stilo_descipcion">Error: &quot;No existe el numero de cliente. Pruebe usando el boton de Buscar para encontrar el numero de cliente correcto o bien ingrese CERO para utilizar el modo de cliente en blanco.&quot;, error de usuario, no se encuentra el usuario en la base de datos porque puede estar mal escrito o simplemente no existe. Para eso se debe agregar nuevo usuario al sistema.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-005</td>
+    <td class="stilo_descipcion">Error de sistema, el posible motivo sea una falla en la conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-006</td>
+    <td class="stilo_descipcion">Error de sistema al intentar abrir el formulario de Clientes.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-007</td>
+    <td class="stilo_descipcion">Error: &quot;Se aceptan solo numero en este casillero.&quot;, Error producido por ingresar valores no validos para ese campo. Los codigos de clientes en el sistema estan determinados por numeros exclusivamente.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-008</td>
+    <td class="stilo_descipcion">Error de sistema producido al ingresar un producto al detalla de la factura. Posible causa falla en la comunicacion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-009</td>
+    <td class="stilo_descipcion">Error de sistema al intentar abrir el formulario de Articulos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-010</td>
+    <td class="stilo_descipcion">Error de sistema al procesar los importes.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-011</td>
+    <td class="stilo_descipcion">Error de sistema al intentar borrar un item del detalle de la factura.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-012</td>
+    <td class="stilo_descipcion">Error de sistema al intentar abrir o cerrar la ventana de la imagen del producto facturado.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-013</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de imprimir la factura.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-014</td>
+    <td class="stilo_descipcion">Error de sistema al cambiar el estado del boton IVA</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-015</td>
+    <td class="stilo_descipcion">Error de sistema a Autocompletar Razon social</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-016</td>
+    <td class="stilo_descipcion">Error de sistema al Autocompletar Nombre del Producto</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-017</td>
+    <td class="stilo_descipcion">Error de sistema al procesar la verificacion de stock disponible.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-018</td>
+    <td class="stilo_descipcion">Error en el metodo Recalculo_Importe()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-019</td>
+    <td class="stilo_descipcion">Error en el metodo RecalculoImporte()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-020</td>
+    <td class="stilo_descipcion">Error al guardar la facutura</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-021</td>
+    <td class="stilo_descipcion">Error guardando detalle en GUARDAR factura.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-022</td>
+    <td class="stilo_descipcion">Error en el Metodo getArticuloID en facturador.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-023</td>
+    <td class="stilo_descipcion">Error al intentar abrir el formulario de busqueda de factura guardadas.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-024    </td>
+    <td class="stilo_descipcion">Error al imprimir factura, imprimir()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-025</td>
+    <td class="stilo_descipcion">Error en actualizoNumeroFactura();</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-026</td>
+    <td class="stilo_descipcion">actualizoStock()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-027</td>
+    <td class="stilo_descipcion">completoDatos()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-028    </td>
+    <td class="stilo_descipcion">actualizoNumero()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-FA1-029</td>
+    <td class="stilo_descipcion">verificoFactura(string numeroFacturaNC)</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-VE1-001</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de cargar los vendedores existentes. Este error pudo haber sido causado por una falla en la conexion con la base de datos.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-LO1-001</td>
+    <td class="stilo_descipcion">Error de sistema. Problema de comunicacion interno</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-LO1-002</td>
+    <td class="stilo_descipcion">Error de sistema.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-OP1-001</td>
+    <td class="stilo_descipcion">Error de sistema producido despues de seleccionar un item del menu.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-OP1-002</td>
+    <td class="stilo_descipcion">Error de sistema al obtener datos del computador.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-OP1-003</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de ocultar los paneles existentes.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-OP1-004</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de guardar la configuarcion del programa en el archivo de configuracion.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-OP1-005</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de recuperar la informacion del archivo de configuracion.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-OP1-006</td>
+    <td class="stilo_descipcion">Error de sistema al intentar abrir el dialogo de configuracion de impresoras.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-OP1-007</td>
+    <td class="stilo_descipcion">Error de sistema al tratar de hacer una prueba de las coordenas de impresion.</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">F-OP1-008</td>
+    <td class="stilo_descipcion">Este error se produce cuando la cadena de conexion con la base de datos no es valida y el software no la resuelve. </td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-000</td>
+    <td class="stilo_descipcion">Clase <strong>SystemSQLCe</strong>, empaquetado en DLL / Depende del ensamblado &quot;mailstaff&quot; : <strong>manten-&gt; clase enviamail</strong></td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-001</td>
+    <td class="stilo_descipcion">Metodo GetSunPosition()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-002</td>
+    <td class="stilo_descipcion">Metodo SQLceConect()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-003</td>
+    <td class="stilo_descipcion">Metodo md5crypt()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-004</td>
+    <td class="stilo_descipcion">Metodo md5UserId()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-005</td>
+    <td class="stilo_descipcion">Metodo leoCript()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-006    </td>
+    <td class="stilo_descipcion">Metodo EscriboCript(string s)</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-007</td>
+    <td class="stilo_descipcion">Metodo getVolumeSerial()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-008</td>
+    <td class="stilo_descipcion">Metodo getCPUID()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-009</td>
+    <td class="stilo_descipcion">Metodo getMotherboardID()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-010    </td>
+    <td class="stilo_descipcion">Metodo getEthernetID()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">D-IN2-011</td>
+    <td class="stilo_descipcion">daysLeft()</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">&nbsp;</td>
+    <td class="stilo_descipcion">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">&nbsp;</td>
+    <td class="stilo_descipcion">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">&nbsp;</td>
+    <td class="stilo_descipcion">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">&nbsp;</td>
+    <td class="stilo_descipcion">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">&nbsp;</td>
+    <td class="stilo_descipcion">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="stilo_Error">&nbsp;</td>
+    <td class="stilo_descipcion">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

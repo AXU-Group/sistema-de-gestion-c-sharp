@@ -1,0 +1,77 @@
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\bin\Debug\sgdb.sdf
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.AboutBox1.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.Form_Opciones.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.Login.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.MDIParentPadre.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.Properties.Resources.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.Form_Clientes.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.Form_Facturador.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.PopUp_F_Vendedor.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.Form_Articulos.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\SG.Form_FacturadorImagen.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\bin\Debug\Vizsla POS.exe.config
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\bin\Debug\Vizsla POS.exe.manifest
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\bin\Debug\Vizsla POS.application
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\bin\Debug\Vizsla POS.exe
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\bin\Debug\Vizsla POS.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\Vizsla POS.exe.manifest
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\Vizsla POS.application
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\Vizsla POS.exe
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\obj\Debug\Vizsla POS.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\SG\SG\bin\Debug\sqlceSystem.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SG\SG\bin\Debug\Vizsla POS.exe.config
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SG\SG\obj\Debug\Vizsla POS.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SG\SG\obj\Debug\Vizsla POS.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\bin\Debug\Vizsla POS.exe.config
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\Vizsla POS.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\Vizsla POS.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\bin\Debug\sgdb.sdf
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\bin\Debug\Vizsla POS.exe.manifest
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\bin\Debug\Vizsla POS.application
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\bin\Debug\Vizsla POS.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\bin\Debug\Vizsla POS.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\bin\Debug\sqlceSystem.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.AboutBox1.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.Form_Articulos.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.Form_Clientes.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.Form_Facturador.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.Form_FacturadorImagen.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.Form_Opciones.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.Login.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.MDIParentPadre.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.PopUp_F_Vendedor.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.Properties.Resources.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\SG.csproj.GenerateResource.Cache
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\Vizsla POS.exe.manifest
+C:\Users\GuilleDell\Documents\Visual Studio 2008\Projects\SGv2\SG\obj\Debug\Vizsla POS.application
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\bin\Debug\Vizsla POS.exe.config
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\Vizsla POS.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\Vizsla POS.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\bin\Debug\sgdb.sdf
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\bin\Debug\Vizsla POS.exe.manifest
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\bin\Debug\Vizsla POS.application
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\bin\Debug\Vizsla POS.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\bin\Debug\Vizsla POS.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.AboutBox1.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.Form_Articulos.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.Form_Clientes.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.Form_Facturador.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.Form_FacturadorImagen.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.Form_Opciones.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.Login.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.MDIParentPadre.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.PopUp_F_Vendedor.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\SG.Properties.Resources.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\Vizsla POS.exe.manifest
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\Vizsla POS.application
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\ResGen.read.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\obj\Debug\ResGen.write.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG\bin\Debug\Vizsla.exe.config

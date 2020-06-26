@@ -1,0 +1,3 @@
+Requiere:
+.NET Framework 4.0
+SqlServerCompactERuntime-ESN-x86

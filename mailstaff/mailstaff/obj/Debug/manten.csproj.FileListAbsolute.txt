@@ -1,0 +1,7 @@
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\mailstaff\mailstaff\bin\Debug\manten.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\mailstaff\mailstaff\bin\Debug\manten.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\mailstaff\mailstaff\obj\Debug\manten.enviamail.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\mailstaff\mailstaff\obj\Debug\manten.Properties.Resources.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\mailstaff\mailstaff\obj\Debug\manten.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\mailstaff\mailstaff\obj\Debug\manten.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\mailstaff\mailstaff\obj\Debug\manten.csproj.GenerateResource.Cache

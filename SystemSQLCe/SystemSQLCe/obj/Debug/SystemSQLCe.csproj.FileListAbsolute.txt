@@ -1,0 +1,20 @@
+D:\Mis documentos\Visual Studio 2008\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2008\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\SystemSQLCe.infochek.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\SystemSQLCe.Properties.Resources.resources
+D:\Mis documentos\Visual Studio 2008\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\SystemSQLCe.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2008\Projects\SystemSQLCe\SystemSQLCe\bin\Debug\sqlceSystem.dll
+D:\Mis documentos\Visual Studio 2008\Projects\SystemSQLCe\SystemSQLCe\bin\Debug\sqlceSystem.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\sqlceSystem.dll
+D:\Mis documentos\Visual Studio 2008\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\sqlceSystem.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\bin\Debug\sqlceSystem.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\bin\Debug\sqlceSystem.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\SystemSQLCe.infochek.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\SystemSQLCe.Properties.Resources.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\sqlceSystem.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\sqlceSystem.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\ResGen.read.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\ResGen.write.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\bin\Debug\manten.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SG">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG.sln">
+</Property><Property Name="Date" Value="viernes, 22 de octubre de 2010">
+</Property><Property Name="Time" Value="11:31 a.m.">
+</Property><Property Name="Número de registro" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="SG" Source="SG\SG.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="SG" Source="SG\SG.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SG.sln" Description="El archivo de soluciones no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="" Source="SG.sln" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="SG" Source="SG\SG.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="SG" Source="SG\SG.csproj" Description="Las referencias a Microsoft.VisualBasic.PowerPacks.Vs se actualizaron a Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event></UpgradeLog>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="SGEKeyGenarator.exe" version="1.0.0.0" publicKeyToken="66ec68592536e787" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SGEKeyGenarator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SGEKeyGenarator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SGEKeyGenarator.exe" size="136704">
+      <assemblyIdentity name="SGEKeyGenarator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5hkrKuJmjV3UnLBUyYNCSXLfzik=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=GUILLERMO\Administrador" issuerKeyHash="3babe9712fb80e4b01ab3323b1f53e800d8164ee" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>2M+/QXPycTQwIH+No+hdwPt/tno=</DigestValue></Reference></SignedInfo><SignatureValue>IyRAd7BkcsAlPyIYddowEbdqZZgEbF7lQ2I49HlcE1EXX/y+xb7quRB/9uRKMzWEc0AmAeDxRHReGbFEKp+m/ppBBnB0IaI998vHpwTykt0CZQfb0aVkloywXz5XUVrRqhvGjEpRHnbfpw48VXVuhD86FtMzOOVklhIk3hCKBwU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>khDOJFWWxPCerbuy8pDyojRtYWE3WBIUU+wg9YpQYCfy9Pv3TxZwDip3D7uvYFU5JAmdJlJPCA4tvB6GAHjHxtfGGw3tqt4a+klBKgIDDRe9D2Iee0Jq8LQ9wqdY89dIc91S5VDrUTJ7o8WJSMdf4pboqkt9km6yQ3Z73DEMoOs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7ab67ffbc05de8a38d7f20303471f27341bfcfd8" Description="" Url=""><as:assemblyIdentity name="SGEKeyGenarator.exe" version="1.0.0.0" publicKeyToken="66ec68592536e787" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GUILLERMO\Administrador</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3CbbzJCI/mrJiAE61u5EaXoUeTY=</DigestValue></Reference></SignedInfo><SignatureValue>IKUMPD0gFAXr8sAXV7nkQ7z/8CMgUgCrYMxD4baCsYZj4Tdoz70NW5bWAEJnd1WRgUjIr7xEQ6tNL3ZRQo6GqtQvzd3a+SGDN3dyuVAizwO6NBVDzKfnzeIXLE/z1p4wxBtORrbeueGdND+fI4MfiwEoZf2YndCxdonZN1htt4A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>khDOJFWWxPCerbuy8pDyojRtYWE3WBIUU+wg9YpQYCfy9Pv3TxZwDip3D7uvYFU5JAmdJlJPCA4tvB6GAHjHxtfGGw3tqt4a+klBKgIDDRe9D2Iee0Jq8LQ9wqdY89dIc91S5VDrUTJ7o8WJSMdf4pboqkt9km6yQ3Z73DEMoOs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVqgAwIBAgIQaGnS1Lki4JpFXA8rhpyEEjAJBgUrDgMCHQUAMDkxNzA1BgNVBAMeLgBHAFUASQBMAEwARQBSAE0ATwBcAEEAZABtAGkAbgBpAHMAdAByAGEAZABvAHIwHhcNMDkxMDAzMTk1NTQ0WhcNMTAxMDA0MDE1NTQ0WjA5MTcwNQYDVQQDHi4ARwBVAEkATABMAEUAUgBNAE8AXABBAGQAbQBpAG4AaQBzAHQAcgBhAGQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCSEM4kVZbE8J6tu7LykPKiNG1hYTdYEhRT7CD1ilBgJ/L0+/dPFnAOKncPu69gVTkkCZ0mUk8IDi28HoYAeMfG18YbDe2q3hr6SUEqAgMNF70PYh57QmrwtD3Cp1jz10hz3VLlUOtRMnujxYlIx1/iluiqS32SbrJDdnvcMQyg6wIDAQABMAkGBSsOAwIdBQADgYEAHjDedMrm9JY6h7vWqU/5jKJ5IISX2AcIWOWWGsspH8ryQsuwfR7EMEFDJAf1qasnd39bFKNhuYIg1hINMBkrp1cWiVJIzu3mRGVsvJxG4VOfdzVVh0hrOjtxMuqb+K4LyIhS7Xi/MSfGhtSPmu2LVwiH6KPTgUEr2/pYGy4PcK4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

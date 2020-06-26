@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorSG", "InstaladorSG\InstaladorSG.vdproj", "{F6FF2948-9B8C-480B-B764-B8DA9F0F1B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FF2948-9B8C-480B-B764-B8DA9F0F1B7E}.Debug|Default.ActiveCfg = Debug
+		{F6FF2948-9B8C-480B-B764-B8DA9F0F1B7E}.Debug|Default.Build.0 = Debug
+		{F6FF2948-9B8C-480B-B764-B8DA9F0F1B7E}.Release|Default.ActiveCfg = Release
+		{F6FF2948-9B8C-480B-B764-B8DA9F0F1B7E}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

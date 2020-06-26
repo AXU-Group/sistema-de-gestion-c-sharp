@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SG">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGv2\SG.sln">
+</Property><Property Name="Date" Value="viernes, 22 de octubre de 2010">
+</Property><Property Name="Time" Value="11:18 a.m.">
+</Property></Properties><Event ErrorLevel="2" Project="SG" Source="SG\SG.csproj" Description="No se puede abrir el archivo de proyecto para realizar la actualización.  ">
+</Event><Event ErrorLevel="0" Project="" Source="SG.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="SG.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+c:\users\guilledell\documents\visual studio 2010\Projects\mailstaff\mailstaff\bin\Debug\mailstaff.dll
+c:\users\guilledell\documents\visual studio 2010\Projects\mailstaff\mailstaff\bin\Debug\mailstaff.pdb
+c:\users\guilledell\documents\visual studio 2010\Projects\mailstaff\mailstaff\obj\Debug\ResolveAssemblyReference.cache
+c:\users\guilledell\documents\visual studio 2010\Projects\mailstaff\mailstaff\obj\Debug\mailstaff.dll
+c:\users\guilledell\documents\visual studio 2010\Projects\mailstaff\mailstaff\obj\Debug\mailstaff.pdb

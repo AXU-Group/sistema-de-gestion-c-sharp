@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Vizsla.exe" version="1.0.0.17" publicKeyToken="51cb4425c5557e3e" language="es-AR" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="vizsla.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Vizsla" version="1.0.5306.35528" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Vizsla.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ionic.Zip.Reduced.dll" size="253440">
+      <assemblyIdentity name="Ionic.Zip.Reduced" version="1.9.1.8" publicKeyToken="EDBE51AD942A3F5C" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>TWPWabc6yso/xi7CY1iayq6pHAs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="manten.dll" size="219136">
+      <assemblyIdentity name="manten" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>/EtDoozOv7uSgLNUNMVEhEanrWY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll" size="47000">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs.resources" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="es" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>gPhZZDCmM0hSwlmvA8Zvt1auOz0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sqlceSystem.dll" size="145408">
+      <assemblyIdentity name="sqlceSystem" version="9.6.14.1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>MnnL451Hoj16BzjZJtVOjsqpcjM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SqlServerCe.dll" size="296816">
+      <assemblyIdentity name="System.Data.SqlServerCe" version="3.5.1.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>cpPKAcX5H9Y39O6BSqXLiw7FhKM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Vizsla.exe" size="6247936">
+      <assemblyIdentity name="Vizsla" version="1.0.5306.35528" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>6LSAsC/sbzgNpsFaI/rPQew0WL0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="App.config" size="11843">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5QeaVvHfLA8o4sEjqZ/R8aHjsZE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\vizsla.ico" size="353118">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>l41C/jA7JtYqzVnkRjsbPZ1gcWg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sgdb.sdf" size="196608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>X/zjyRJSM4zDy66ER5Fm+WN+Dwc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Vizsla.exe.config" size="11843">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5QeaVvHfLA8o4sEjqZ/R8aHjsZE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="vizsla.ico" size="353118">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>l41C/jA7JtYqzVnkRjsbPZ1gcWg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SmartFTP Client" issuerKeyHash="f7f07b613229a7aabbbf9dc559b3110aa96011fc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>cPsBrlq6/dbiD9CKTxv0ki/U7g4=</DigestValue></Reference></SignedInfo><SignatureValue>J15SMf4ddXmErCGqpz5l6Y2weuefStZQT8ew2e4xOHZKd590KUtW1oxyMTIokJMBFpIHpAk3tz8imq/vm+roV0Prp65OP3aWqDpuUBOHma53S/msbrxc8QHQljx/KMltjZNpRn4VAA1AIcN7XsOhDtns4x0H8NyQYjxpHfZ+xDU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zWainT/Q1cJJ4nr0/UMgTOpt3zQ/vbpfhUlA9hA9mG4V7bSdqSRX6Zl70IElNixNEIAfXW6nSBVmP/vGpi+9uhNMPTw1i8hzzZYaV+qvcez4czcDrH7N0AmGIAHqwhrfFDW130XrCow+jy7Emp/b+U0UVSzxw+ScTfJ+KySntUU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0eeed42f92f41b4f8ad00fe2d6fdba5aae01fb70" Description="" Url=""><as:assemblyIdentity name="Vizsla.exe" version="1.0.0.17" publicKeyToken="51cb4425c5557e3e" language="es-AR" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SmartFTP Client</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>0ssYwhMvgu5/fdEIjPbrW3iXcVA=</DigestValue></Reference></SignedInfo><SignatureValue>jHOIZ12X/rBByDiKlByKfBm+6leEFem2oCc4N5/sw2BcsFfZqaEF41Iz2HzD1GbfPBr7rPwTBbe7UU8L7T/sKW+R31d5aVjCzdCcJNZg03XLqNCLNCnwxcD1Z/VbuyiD0ncSQQ/K4CYxS1xKGJXqxLrIlLyxTA/NOxb4bGw3rak=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zWainT/Q1cJJ4nr0/UMgTOpt3zQ/vbpfhUlA9hA9mG4V7bSdqSRX6Zl70IElNixNEIAfXW6nSBVmP/vGpi+9uhNMPTw1i8hzzZYaV+qvcez4czcDrH7N0AmGIAHqwhrfFDW130XrCow+jy7Emp/b+U0UVSzxw+ScTfJ+KySntUU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBuTCCASKgAwIBAgIQYJILZvmvebBF9KZAn52gWDANBgkqhkiG9w0BAQUFADAaMRgwFgYDVQQDEw9TbWFydEZUUCBDbGllbnQwIBcNMTExMTE4MTcxMjUxWhgPMjExMTExMTgxNzEyNTBaMBoxGDAWBgNVBAMTD1NtYXJ0RlRQIENsaWVudDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzWainT/Q1cJJ4nr0/UMgTOpt3zQ/vbpfhUlA9hA9mG4V7bSdqSRX6Zl70IElNixNEIAfXW6nSBVmP/vGpi+9uhNMPTw1i8hzzZYaV+qvcez4czcDrH7N0AmGIAHqwhrfFDW130XrCow+jy7Emp/b+U0UVSzxw+ScTfJ+KySntUUCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAOGUPr7rcLmGo8SHauDebtM/TpxlziAOp7UlxS7A2YhCJVmDSRQ0sUpg6Hp7KpsWLmNJX6VH03EmcaYrYVphu18euxOZUXe8ahD1j8jQnLjJfst2TdDQUORqNtoZqtiu32yp2P3oTGoEYAqUtaliTiJ9wDFjJsKwk8W4eW4yPCyA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

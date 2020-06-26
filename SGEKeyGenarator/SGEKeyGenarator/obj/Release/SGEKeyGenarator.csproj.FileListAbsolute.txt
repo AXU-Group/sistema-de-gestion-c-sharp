@@ -1,0 +1,13 @@
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\bin\Release\Vizsla Key Genarator.exe.manifest
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\bin\Release\Vizsla Key Genarator.application
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\bin\Release\Vizsla Key Genarator.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\bin\Release\Vizsla Key Genarator.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\ResolveAssemblyReference.cache
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\SGEKeyGenarator.Form1.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\SGEKeyGenarator.Properties.Resources.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\ResGen.read.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\ResGen.write.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\Vizsla Key Genarator.exe.manifest
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\Vizsla Key Genarator.application
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\Vizsla Key Genarator.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SGEKeyGenarator\SGEKeyGenarator\obj\Release\Vizsla Key Genarator.pdb

@@ -1,0 +1,10 @@
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\bin\Release\sqlceSystem.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\bin\Release\sqlceSystem.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\bin\Release\manten.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Release\ResolveAssemblyReference.cache
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Release\SystemSQLCe.infochek.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Release\SystemSQLCe.Properties.Resources.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Release\GenerateResource.read.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Release\GenerateResource.write.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Release\sqlceSystem.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe\obj\Release\sqlceSystem.pdb

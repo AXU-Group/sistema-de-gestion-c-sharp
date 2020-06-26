@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SystemSQLCe">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\SystemSQLCe.suo">
+</Property><Property Name="Date" Value="lunes, 29 de agosto de 2011">
+</Property><Property Name="Time" Value="01:15 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SystemSQLCe.sln" Description="La copia C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="SystemSQLCe.suo" Description="La copia C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\SystemSQLCe.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\SystemSQLCe.csproj">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\infochek.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\infochek.cs">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\infochek.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\infochek.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\SQLcatch.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\SQLcatch.cs">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\Resources\sg_cuadrado.png" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\Resources\sg_cuadrado.png">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\Resources\bracBN.png" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\Resources\bracBN.png">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\infochek.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\infochek.resx">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\SystemSQLCe\Backup\SystemSQLCe\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\SystemSQLCe.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="SystemSQLCe" Source="SystemSQLCe\SystemSQLCe.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SystemSQLCe.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="SystemSQLCe.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SystemSQLCe" Source="SystemSQLCe\SystemSQLCe.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

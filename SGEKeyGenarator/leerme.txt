@@ -1,0 +1,2 @@
+Para el funcionamiento del generador es necesario tener instalado el dotNetFx35setup.exe
+.NET Framework 3.5
